@@ -1,0 +1,30 @@
+[
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": "1925  ",
+        "genre": "Fiction  ",
+        "read_status": false
+    },
+    {
+        "title": "Book1",
+        "author": "Author1",
+        "year": "2001",
+        "genre": "genre1",
+        "read_status": true
+    },
+    {
+        "title": "Book2",
+        "author": "Author2",
+        "year": "2002",
+        "genre": "genre2",
+        "read_status": false
+    },
+    {
+        "title": "book4",
+        "author": "author4",
+        "year": "2004",
+        "genre": "genre4",
+        "read_status": true
+    }
+]
